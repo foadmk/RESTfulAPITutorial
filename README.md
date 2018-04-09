@@ -1,4 +1,4 @@
-## Nodejs in 10 minutes
+## Nodejs in 10 minutes with JWT and user handling
 
 clone the project
 
